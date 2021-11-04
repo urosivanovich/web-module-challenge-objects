@@ -115,7 +115,7 @@ function addReview(array, name, rating, feedback){
     array.push(obj)
     return array
 }
-console.log(addReview(reviews{name: 'Daniela', rating: 5, review: 'Beautiful atmosphere and wonderful vegan options!' }));
+console.log(addReview(reviews));
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 6: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 Write a function to return a review based on the index of the review in the array.
